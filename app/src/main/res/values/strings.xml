@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Dynamic Quiz App</string>
+    <string name="welcome">Welcome</string>
+    <string name="created_by_code_unit">Created by Code Unit</string>
+    <string name="get_started">Get started</string>
+    <string name="quiz">Quiz</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="create_new_account">Create new Account</string>
+    <string name="wrong_answer">Wrong Answer:</string>
+    <string name="correct_answers">Correct answers :</string>
+    <string name="restart">Restart</string>
+    <string name="final_score">Final Score:</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="i_agree">I Agree</string>
+    <string name="Email">Email</string>
+    <string name="Passwored">Password</string>
+    <string name="Enter_fullname">Enter FullName</string>
+    <string name="Create_new_account">Create new account</string>
+</resources>
